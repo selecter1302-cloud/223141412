@@ -1,0 +1,15 @@
+{
+  "revision": "windows-r2",
+  "base_game": "v1.05.9 KO",
+  "pck_entries": 596,
+  "encrypted_entries_preserved": 530,
+  "plaintext_md5_verified": 48,
+  "payload_and_pck_removed_feature_scan": "passed",
+  "packaged_gdscript_syntax_passed": 37,
+  "save_semantic_preservation": "passed_except_removed_feature_keys",
+  "overlay_and_tables_byte_preservation": "passed",
+  "exe_original_byte_match": true,
+  "exe_windows_pe_x64": true,
+  "windows_runtime": "not tested",
+  "android_runtime": "not built: game core encrypted; original project/export configuration absent"
+}
