@@ -1,0 +1,10 @@
+{
+  "file": "fushidara_v1.05.9_KO_no_auto_video_windows.zip",
+  "bytes": 229350740,
+  "sha256": "6ac32fa44a7fdbb9b12773bbd0cc957c1d97848893628a51a0192476ad1f5fc4",
+  "exe_sha256": "dae8114f1b26a0a121bde8eba8f8aa7db86224706818e8126188d94f4d713d8a",
+  "exe_bytes": 227550440,
+  "pe_machine": "0x8664",
+  "sections": 8,
+  "pck_sha256": "bab556c17fc41a6dc69a8e2a4f2dbedf32a7a00d7edf2280ff375e03354b8d85"
+}
